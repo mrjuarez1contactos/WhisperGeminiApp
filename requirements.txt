@@ -4,3 +4,4 @@ torch
 google-generativeai
 openai
 tenacity
+imageio-ffmpeg
